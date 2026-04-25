@@ -9,5 +9,5 @@ This is a fullstack project using React, Node.js and MySQL.
 
 ## Screenshots
 ![Login](Screenshots/login.png)
-![Register](Screenshots/register.png)
-![Welcome](Screenshots/wellcome.png)
+![Register](Screenshots/Register.png)
+![Wellcome](Screenshots/wellcome.png)
